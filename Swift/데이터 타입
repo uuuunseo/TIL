@@ -66,10 +66,27 @@
 • Array : 멤버가 순서(인덱스)를 가진 리스트 형태의 컬렉션 타입
     ・ 여러 리터럴 문법을 활용할 수 있어서 표현방법이 다양하다.
     ・ var integers: Array<Int> = Array<Int> ()
-    ・ integers.append(1) // 값 불러오기
-    ・ print(integers.contains(100)) //멤버 포함 여부 확인
+    ・ integers.append(1) // 값 넣어주기
+    ・ integers.contains(100) //멤버 포함 여부 확인
     ・ integers[0] = 99 // 멤버 교체
-    ・ integers.remove(at: 0) // 멤버 삭제
-    ・ print(integers.count) // 멤벗
-    ・
-    ・
+    ・ integers.remove(at: 0) // 멤버 삭제 (removeLast()로 마지막, removeAll로 모든 배열의 멤버를 삭제할 수 있다.) 
+    ・ integers.count // 멤버수 확인
+    ・ integers[0] // 인덱스를 벗어나서 접근하면 런타임 오류 발생
+    ・ let을 사용하여 Array를 선언하면 불변 Array가 된다. (멤버 추가, 삭제 불가능)
+
+• Dictionary : 키와 값이 쌍으로 이루어진 컬렉션 타입
+    ・ 여러 리터럴 문법을 활용할 수 있어서 표현방법이 다양하다.
+    ・ var anyDictionary: Dictionary<String, Any> = [String: Any] ()
+    ・ anyDictionary["someKey"] = "value" // 키에 해당 하는 값 할당
+    ・ anyDictionary["someKey"] = "dictionary" // 키에 해당 하는 값 변경
+    ・ anyDictionary.removeValue(forKey: "anotherKey") // 키에 해당 하는 값 제거 (nil도 사용 가능)
+    ・ let을 사용하여 Dictionary를 선언하면 불변 Dictionary가 된다. (값 변경 불가)
+
+• Set : 순서가 없고, 멤버가 유일한 것을 보장하는 컬렉션 타입
+    ・ var integerSet: Set<Int> = Set<Int> ()
+    ・ Array에서 사용한 append, contains, remove, count를 사용할 수 있다.
+    ・ Set은 집합연산에 많이 사용된다.
+      let union: Set<Int> = setA.union (setB) // 합집함
+      let sortedUnion: [Int] = union.sorted ( ) // 합집합 오름차순 정렬
+      let intersection: Set<Int> = setA.intersection (setB) // 교집합
+      let subtracting: Set<Int> = setA.subtracting (setB) // 차집합

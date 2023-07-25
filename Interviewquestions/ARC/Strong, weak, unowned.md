@@ -1,4 +1,4 @@
-# <b> Strong, weak, unowed</b>
+# <b> Strong, weak, unowned</b>
 메모리를 참조하는 방법  
 
 <br>

@@ -20,3 +20,4 @@
 ## <b> AutoLayout </b>
 - [오토레이아웃을 코드로 작성하는 방법](https://github.com/uuuunseo/TIL/blob/main/Interviewquestions/AutoLayout/%EC%98%A4%ED%86%A0%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83%EC%9D%84%20%EC%BD%94%EB%93%9C%EB%A1%9C%20%EC%9E%91%EC%84%B1%ED%95%98%EB%8A%94%20%EB%B0%A9%EB%B2%95.md)
 - [hugging, resistance](https://github.com/uuuunseo/TIL/blob/main/Interviewquestions/AutoLayout/hugging%2C%20resistance.md)
+- [Intrinsic Size](https://github.com/uuuunseo/TIL/blob/main/Interviewquestions/AutoLayout/Intrinsic%20Size.md)

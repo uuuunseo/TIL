@@ -22,3 +22,4 @@
 - [hugging, resistance](https://github.com/uuuunseo/TIL/blob/main/Interviewquestions/AutoLayout/hugging%2C%20resistance.md)
 - [Intrinsic Size](https://github.com/uuuunseo/TIL/blob/main/Interviewquestions/AutoLayout/Intrinsic%20Size.md)
 - [스토리보드를 사용했을 때의 장단점](https://github.com/uuuunseo/TIL/blob/main/Interviewquestions/AutoLayout/%EC%8A%A4%ED%86%A0%EB%A6%AC%EB%B3%B4%EB%93%9C%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%96%88%EC%9D%84%20%EB%95%8C%EC%9D%98%20%EC%9E%A5%EB%8B%A8%EC%A0%90.md)
+- [Safe Area](https://github.com/uuuunseo/TIL/blob/main/Interviewquestions/AutoLayout/Safe%20Area.md)

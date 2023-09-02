@@ -8,7 +8,7 @@ AutoLayout : 뷰에 주어진 제약조건에 따라 뷰의 크기와 위치를 
 1. Frame 기반의 프로그래밍 방식 (Frame-based Layout)
 2. Autoresizing masks
 3. Auto Layout
-
+ 
 <br>
 
 <hr>

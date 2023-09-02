@@ -4,10 +4,18 @@ scene 내에 포커스 배치가 변경될 때 SwiftUI가 업데이트 하는 �
 
 <br>
 
+---
+
+<br>
+
 ## <b> iOS 15부터 나온 개념 </b>
 이전 OS에서는 TextField에서 포커스 기술을 지원하지 않아서 UIKit의 도움을 받아야 했었다.
 (UIViewRepresentable을 사용해 UITextView를 만들어 적용  
 -> UITextFieldDelegate 프로토콜을 채택해 아래 보이는 제공 메서드를 통해 TextField의 포커싱을 해제 시켜주거나 포커싱 시켜주거나를 구현해주기)
+
+<br>
+
+---
 
 <br>
 

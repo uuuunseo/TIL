@@ -50,6 +50,13 @@
 <hr>
 <br>
 
+## <b> iOS </b>
+- [App Thinnig](https://github.com/uuuunseo/TIL/blob/main/Interviewquestions/iOS/App%20Thinning.md)
+
+<br>
+<hr>
+<br>
+
 # <b> Study </b>
 
 ## <b> Swift </b>

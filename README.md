@@ -53,6 +53,8 @@
 ## <b> iOS </b>
 - [App Thinnig](https://github.com/uuuunseo/TIL/blob/main/Interviewquestions/iOS/App%20Thinning.md)
 
+- [iOS 앱을 만들고, User Interface를 구성하는 데 필수적인 프레임워크 이름은 무엇인가?](https://github.com/uuuunseo/TIL/blob/main/Interviewquestions/iOS/iOS%20%EC%95%B1%EC%9D%84%20%EB%A7%8C%EB%93%A4%EA%B3%A0%2C%20User%20Interface%EB%A5%BC%20%EA%B5%AC%EC%84%B1%ED%95%98%EB%8A%94%20%EB%8D%B0%20%ED%95%84%EC%88%98%EC%A0%81%EC%9D%B8%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%20%EC%9D%B4%EB%A6%84%EC%9D%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%3F.md)
+
 <br>
 <hr>
 <br>

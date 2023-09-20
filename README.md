@@ -68,6 +68,8 @@
 
 - [동기 vs 비동기](https://github.com/uuuunseo/TIL/blob/main/Study/Swift/%EB%8F%99%EA%B8%B0%20vs%20%EB%B9%84%EB%8F%99%EA%B8%B0.md)
 
+- [Serial, Concurrent](https://github.com/uuuunseo/TIL/blob/main/Study/Swift/Serial%2C%20Concurrent.md)
+
 <br>
 <hr>
 <br>

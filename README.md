@@ -25,6 +25,8 @@
 ## <b> Architecture </b>
 - [MVVM](https://github.com/uuuunseo/TIL/blob/main/Interviewquestions/Architecture/MVVM.md)
 
+- [MVI](https://github.com/uuuunseo/TIL/blob/main/Interviewquestions/Architecture/MVI.md)
+
 <br>
 <hr>
 <br>

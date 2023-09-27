@@ -97,3 +97,5 @@
 - [LazyStack](https://github.com/uuuunseo/TIL/blob/05c69bbe6a53fb1a8a00b054dd2a1ad98da6e4d4/Study/SwiftUI/LazyStack.md)
 
 - [Geometry Reader](https://github.com/uuuunseo/TIL/blob/main/Study/SwiftUI/Geometry%20Reader.md)
+
+- [@ObservedObject](https://github.com/uuuunseo/TIL/blob/main/Study/SwiftUI/%40ObservedObject.md)

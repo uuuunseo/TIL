@@ -99,3 +99,5 @@
 - [Geometry Reader](https://github.com/uuuunseo/TIL/blob/main/Study/SwiftUI/Geometry%20Reader.md)
 
 - [@ObservedObject](https://github.com/uuuunseo/TIL/blob/main/Study/SwiftUI/%40ObservedObject.md)
+
+- [@Published](https://github.com/uuuunseo/TIL/blob/main/Study/SwiftUI/%40Published.md)

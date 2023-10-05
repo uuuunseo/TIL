@@ -27,6 +27,8 @@
 
 - [MVI](https://github.com/uuuunseo/TIL/blob/main/Interviewquestions/Architecture/MVI.md)
 
+- [MVC](https://github.com/uuuunseo/TIL/blob/main/Interviewquestions/Architecture/MVC.md)
+
 <br>
 <hr>
 <br>

@@ -72,6 +72,15 @@
 
 # <b> Study </b>
 
+<br>
+
+## <b> 객체지향 </b>
+- [객체지향 - 추상화](https://github.com/uuuunseo/TIL/blob/main/Study/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5/%EC%B6%94%EC%83%81%ED%99%94.md)
+  
+<br>
+<hr>
+<br>
+
 ## <b> Swift </b>
 - [URL Loading System](https://github.com/uuuunseo/TIL/blob/main/Study/Swift/URL%20Loading%20System.md)
 

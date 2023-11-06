@@ -34,4 +34,37 @@
 - 비동기 작업의 실행을 나타내는 타입
 - 비동기 작업을 생성하고, 실행중인 작업을 취소하거나 대기하고 있는 작업을 확인 가능
 
+## <b> 사용방법 </b>
+async 키워드를 정의하는 함수에 붙여야 한다.
+함수를 호출하는 구문에서 await라는 키워드를 사용한다.
+
+```Swift
+func tenSecondsWaitFunction() async throws -> Int {
+  try await Task.sleep(for: .second(10))
+  return 10
+}
+
+// async 함수가 아닐 때 -> Task 키워드를 사용해주어야 한다.(사용하지 않으면 오류!)
+
+func nomalFunction() {
+  Task {
+    try await tenSecondsWaitFunction() 
+  }
+}
+
+// async 함수에서 호출할 때
+
+func asyncFunction() async throws {
+  try await tenSecondsWaitFunction()
+}
+```
+
+## <b> Swift Concurrency 원리 </b>
+
+### <b> 작동 원리 </b>
+await와 같은 함수가 작동될 때 중단되고 쓰레드의 제어를 포기한다.
+함수에게 쓰레드 제어가 다시 돌아가는 것 대신, 시스템에게 쓰레드 제어권을 제공한다.
+
+함수는 중단 되어있고, 시스템이 위임된 수많은 Task중 가장 중요한 작업을 시스템이 선변해서 우선적으로 처리한다. 
+
 

@@ -76,6 +76,8 @@
 
 ## <b> 객체지향 </b>
 - [객체지향 - 추상화](https://github.com/uuuunseo/TIL/blob/main/Study/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5/%EC%B6%94%EC%83%81%ED%99%94.md)
+
+- [객체지향 - 캡슐화](https://github.com/uuuunseo/TIL/blob/main/Study/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5/%EC%BA%A1%EC%8A%90%ED%99%94.md)
   
 <br>
 <hr>

@@ -57,6 +57,8 @@
 
 - [class의 성능을 향상 시킬수 있는 방법](https://github.com/uuuunseo/TIL/blob/main/Interviewquestions/Swift/class%EC%9D%98%20%EC%84%B1%EB%8A%A5%EC%9D%84%20%ED%96%A5%EC%83%81%20%EC%8B%9C%ED%82%AC%EC%88%98%20%EC%9E%88%EB%8A%94%20%EB%B0%A9%EB%B2%95.md)
 
+- [Struct와 Class의 차이점](https://github.com/uuuunseo/TIL/blob/main/Study/Swift/Struct%EC%99%80%20Class%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%A0%90.MD)
+
 <br>
 <hr>
 <br>
